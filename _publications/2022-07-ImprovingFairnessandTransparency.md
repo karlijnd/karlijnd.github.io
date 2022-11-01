@@ -3,8 +3,9 @@ title: "Improving Fairness and Transparency for Artists in Music Recommender Sys
 collection: publications
 permalink: /publication/2022-07-ImprovingFairnessandTransparency
 # excerpt: ''
+type: "Doctoral Consortium Extended Abstract"
 date: 2022-07-01
-venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22). New York, NY, USA: Association for Computing Machinery, 3498.'
+venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22). New York, NY, USA: Association for Computing Machinery'
 paperurl: 'https://doi.org/10.1145/3477495.3531681'
 citation: 'Dinnissen, K. (2022). Improving Fairness and Transparency for Artists in Music Recommender Systems. In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22)</i>. New York, NY, USA: Association for Computing Machinery, 3498.'
 ---
@@ -21,5 +22,5 @@ Based on RQ2 conclusions, to answer RQ3 we develop MRS explanations for artists 
 This work will provide valuable insights into artists’ perspectives on fairness, and a novel application of MRS explanations. We will lay the foundation for positive impact on MRS transparency for artists, as well as for developers aiming to improve fairness. -->
 
 [Download paper here](https://doi.org/10.1145/3477495.3531681)
-
-Recommended citation: Dinnissen, K. (2022). Improving Fairness and Transparency for Artists in Music Recommender Systems. In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)</i>. New York, NY, USA: Association for Computing Machinery, 3498. https://doi.org/10.1145/3477495.3531681
+<!-- 
+Recommended citation: Dinnissen, K. (2022). Improving Fairness and Transparency for Artists in Music Recommender Systems. In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)</i>. New York, NY, USA: Association for Computing Machinery, 3498. https://doi.org/10.1145/3477495.3531681 -->
