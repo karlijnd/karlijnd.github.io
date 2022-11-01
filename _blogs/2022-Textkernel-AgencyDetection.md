@@ -1,7 +1,7 @@
 ---
 title: 'Using Deep Learning To Detect Advertiser Type In Jobfeed'
 collection: blogs
-date: 2022-12-08
+date: 2021-12-08
 permalink: /blog/2022-Textkernel-AgencyDetection
 tags:
   - Deep Learning
