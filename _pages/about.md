@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Pursuing a PhD focused on fairness and bias detection in music recommender systems at Utrecht University.
-Part of the Information and Computing Science department - Interaction division - Human Centered Computing group.
-Also organizing & teaching courses, as well as supervising theses.
+Currently pursuing a PhD focused on <b>fairness and bias detection in music recommender systems</b> at Utrecht University, as a part of the Information and Computing Science department, Interaction division, Human Centered Computing group.<br>
+In my work, I combine 6 years of industry experience as a ML software engineer and data analyst with an academic background in Communication and Information Sciences, resulting in <b>interdisciplinary, human-focused</b> scientific research projects.<br>
+I am also organizing and teaching courses, as well as supervising student theses.
 
-Currently open for research and/or engineering internship opportunities for the summer of 2023.
+I am <b>open for research and/or engineering internship opportunities for summer 2023</b>, focusing on one or several of the following topics:
+1. Fairness and bias mitigation in machine learning applications
+2. Music recommendation
+3. Personalization in recommender systems
+4. Explainability (XAI)
