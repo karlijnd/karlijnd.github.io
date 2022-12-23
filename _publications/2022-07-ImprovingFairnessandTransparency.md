@@ -21,6 +21,6 @@ Since the interviews suggest transparency as a main improvement area, we further
 Based on RQ2 conclusions, to answer RQ3 we develop MRS explanations for artists with particular attention to robustness. We balance added transparency with added cognitive load, and focus especially on fairness-clarifying or enhancing techniques.
 This work will provide valuable insights into artists’ perspectives on fairness, and a novel application of MRS explanations. We will lay the foundation for positive impact on MRS transparency for artists, as well as for developers aiming to improve fairness. -->
 
-[Download paper here](https://doi.org/10.1145/3477495.3531681)
+[View paper here](https://dl.acm.org/doi/pdf/10.1145/3477495.3531681?casa_token=T8aqslDnjLgAAAAA:Y7yjbyLofYnK4Si1qg9T6-1052vRX0_WZeJc_AJRORPZhNMprzRZ5kebjnLpfTchzqbxf5l89dpJyQ)
 <!-- 
 Recommended citation: Dinnissen, K. (2022). Improving Fairness and Transparency for Artists in Music Recommender Systems. In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)</i>. New York, NY, USA: Association for Computing Machinery, 3498. https://doi.org/10.1145/3477495.3531681 -->
