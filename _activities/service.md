@@ -4,13 +4,8 @@ collection: activities
 permalink: /activities/service
 ---
 
-2023
-* <b>Expert Consultant for Expo New Urban City Lab</b> - Ethical Data Center @ Fontys Academy for the Creative Economy, Tilburg, The Netherlands
-* <b>Student Volunteer (on-site)</b> - RecSys, Singapore, Singapore
-* <b>Student Volunteer (on-site)</b> - UMAP, Limassol, Cyprus
-
-2022
-* <b>Student Volunteer (on-site)</b> - RecSys, Seattle, United States
-
-2021
-* <b>Student Volunteer (online)</b> - RecSys, Amsterdam, The Netherlands
+* 2023: <b>Expert Consultant for Expo New Urban City Lab</b>, <i>Ethical Data Center @ Fontys Academy for the Creative Economy, Tilburg, The Netherlands</i>
+* 2023: <b>Student Volunteer (on-site)</b>, <i>RecSys, Singapore, Singapore</i>
+* 2023: <b>Student Volunteer (on-site)</b>, <i>UMAP, Limassol, Cyprus</i>
+* 2022: <b>Student Volunteer (on-site)</b>, <i>RecSys, Seattle, United States</i>
+* 2021: <b>Student Volunteer (online)</b>, <i>RecSys, Amsterdam, The Netherlands</i>
