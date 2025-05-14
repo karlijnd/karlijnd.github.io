@@ -79,12 +79,20 @@ Skills
   * SQL
   * VBA
 * Data Science
+  * Jupyter
   * TensorFlow
-  * Pandas
+  * pandas
+  * numpy
   * SpaCy
   * Prodigy
   * scikit-learn
   * MS Access, Excel
+* Research
+  * Recommender Systems
+  * Human-Computer Interaction (HCI)
+  * user studies
+  * Natural Language Processing (NLP)
+  * Large Language Models (LLMs)
 * Visualisation & Metrics
   * Matplotlib
   * Kibana
