@@ -1,14 +1,14 @@
 ---
-title: "Human Computer Interaction"
+title: "Human Computer Interaction in Application Domains"
 collection: teaching
-type: "Human Computer Interaction in Application Domains"
+type: " Human Computer Interaction master course"
 permalink: /teaching/2024-25-blok3-HCIAD
 venue: "Utrecht University"
 date: 2025-02-03
 location: "Utrecht, The Netherlands"
 ---
 
-Involved in the course in '24/'25
+Involved in the course in '24/'25 (click for list of tasks)
 
 <u><b>Feb-Apr 2025</b></u>
 
