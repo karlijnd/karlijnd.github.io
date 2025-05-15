@@ -7,7 +7,7 @@ date: 2024-10-14
 type: "Full Conference Paper"
 venue: 'Proceedings of the 18th ACM Conference on Recommender Systems (RecSys `24)'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3640457.3688102'
-citation: 'Ungruh, R., <b>Dinnissen, K.<\b>, Volk, A., Pera, M. S., Hauptmann, H. (2024). Putting Popularity Bias Mitigation to the Test: A User-Centric Evaluation in Music Recommenders. In <i>Proceedings of the 18th ACM Conference on Recommender Systems (RecSys `24), October 14-18, 2024, Bari, Italy.</i> 169-178.'
+citation: 'Ungruh, R., <b>Dinnissen, K.</b>, Volk, A., Pera, M. S., Hauptmann, H. (2024). Putting Popularity Bias Mitigation to the Test: A User-Centric Evaluation in Music Recommenders. In <i>Proceedings of the 18th ACM Conference on Recommender Systems (RecSys `24), October 14-18, 2024, Bari, Italy.</i> 169-178.'
 ---
 
 <!-- 
@@ -15,4 +15,4 @@ Popularity bias is a prominent phenomenon in recommender systems (RS), especiall
 
 [View paper here](https://dl.acm.org/doi/pdf/10.1145/3640457.3688102)
 <!-- 
-Ungruh, R., <b>Dinnissen, K.<\b>, Volk, A., Pera, M. S., Hauptmann, H. (2024). Fairness and Transparency in Music Recommender Systems: Improvements for Artists. In <i>Proceedings of the 18th ACM Conference on Recommender Systems (RecSys `24), October 14-18, 2024, Bari, Italy.</i> 169-178. https://dl.acm.org/doi/pdf/10.1145/3640457.3688102 -->
+Ungruh, R., <b>Dinnissen, K.</b>, Volk, A., Pera, M. S., Hauptmann, H. (2024). Fairness and Transparency in Music Recommender Systems: Improvements for Artists. In <i>Proceedings of the 18th ACM Conference on Recommender Systems (RecSys `24), October 14-18, 2024, Bari, Italy.</i> 169-178. https://dl.acm.org/doi/pdf/10.1145/3640457.3688102 -->
